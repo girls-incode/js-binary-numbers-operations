@@ -1,4 +1,4 @@
-# Example of a calculator that performs addition, subtraction, multiplication and division operations on binary numbers in JS.
+## Example of a calculator that performs addition, subtraction, multiplication and division operations on binary numbers in JS.
 
 ![Problem description](https://github.com/girls-incode/js-binary-numbers-operations/blob/master/hackerrank-challenges-js10-binary-calculator.png)
 
